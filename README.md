@@ -9,3 +9,4 @@ re-build using command "./auto_build.sh"
 
 You have bash scripts and python scripts to start with.
 
+Plug the D300 with its USB adpater, and run the scripts !
